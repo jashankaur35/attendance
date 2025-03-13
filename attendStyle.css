@@ -1,0 +1,28 @@
+select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border: none;
+    background: none;
+    padding: 5px;
+}select option{
+    display: none;
+}
+.attendance-container {
+    /* border: 1px solid; */
+    width: 82%;
+    float: right;
+    margin-top: 20px;
+}
+.heading-attendance{
+    margin:30px;
+}
+.month-attendance{
+    margin:20px;
+}
+{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+
